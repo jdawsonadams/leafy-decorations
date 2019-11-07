@@ -3,11 +3,14 @@ html {
 }
 
 .masthead {
-  background: url("../images/leaf-bg.svg")
+  background: url("../images/leaf-bg.svg") left top / 64px auto repeat #588477;
+  border-top: 3px solid #2d5a4d;
+  border-bottom: 3px solid #2d5a4d;
 }
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -15,7 +18,8 @@ html {
 }
 
 .nav a {
-  text-decoration: none;
+  color: #fff;
+  background-color: #467366;
 }
 
 .nav a:hover {
