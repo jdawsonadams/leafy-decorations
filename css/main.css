@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-
+  background: url("../images/leaf-bg.svg")
 }
 
 .logo {
@@ -19,7 +19,7 @@ html {
 }
 
 .nav a:hover {
-
+  background: url("../images/leaf-icon.svg")
 }
 
 .banner {
@@ -27,7 +27,7 @@ html {
 }
 
 .banner-content {
-
+  background: url("../images/two-leaves.svg")
 }
 
 @media only screen and (min-width: 60em) {
