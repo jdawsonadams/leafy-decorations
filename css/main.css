@@ -18,6 +18,7 @@ html {
 }
 
 .nav a {
+  text-decoration: none;
   color: #fff;
   background-color: #467366;
   border: 3px solid #2d5a4d;
@@ -25,7 +26,7 @@ html {
 }
 
 .nav a:hover {
-  background: url("../images/leaf-icon.svg")
+  background: url("../images/leaf-icon.svg") .75em center / 64px auto no-repeat #fff;
   color: #145b1d;
 }
 
